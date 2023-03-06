@@ -2,10 +2,11 @@
 
 if [[ "$1" == "--install" ]]; then
   # clone the repo from GitHub
-  git clone https://github.com/your-username/your-repo.git
+  git clone https://github.com/fartcan6/fard.git
+
 
   # change into the "stuff" directory
-  cd your-repo/stuff
+  cd ~fard/stuff
 
   if [ $(($RANDOM % 2)) -eq 0 ]; then
     echo "Installing package... 0%"
