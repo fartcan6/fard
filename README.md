@@ -8,7 +8,19 @@ To install F4RD, you can run the following command in your terminal:
 ```bash
 git clone https://github.com/fartcan6/fard.git && cd fard && ./stuff/fard.sh --install
 ```
-This will clone the F4RD repository from GitHub and run the installation script. The installation script will create a folder named "fard" in your home directory and create a README.txt file inside it with the text "trolled".
+This will clone the F4RD repository from GitHub and run the installation script. The installation script will create a folder named "fard" in your home directory and create a README.txt file inside it with the text "trolled".How to run it
+
+# HOW TO RUN IT
+• Open your terminal (command prompt on Windows) and navigate to the directory 
+where you cloned the fard repository.
+
+• Navigate to the stuff directory using the command: cd stuff.
+
+• Run the fard.sh script by typing: ./fard.sh --install.
+
+• Follow the instructions that appear on your screen to complete the installation process.
+
+**Note: The installation process requires an internet connection to clone the fard repository from GitHub. The installation script is compatible with macOS, Linux, and Windows operating systems.**
 
 # COMPATIBILITY
 
