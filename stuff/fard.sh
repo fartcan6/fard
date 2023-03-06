@@ -6,7 +6,7 @@ if [[ "$1" == "--install" ]]; then
 
 
   # change into the "stuff" directory
-  cd ~fard/stuff
+  cd fard/stuff/fard.sh
 
   if [ $(($RANDOM % 2)) -eq 0 ]; then
     echo "Installing package... 0%"
